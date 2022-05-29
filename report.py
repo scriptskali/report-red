@@ -1,12 +1,8 @@
-BLACK = '\033[30m'
+#created By se4ars3
 RED = '\033[31m'
 GREEN = '\033[32m'
-YELLOW = '\033[33m'
 BLUE = '\033[34m'
-MAGENTA = '\033[35m'
-CYAN = '\033[36m'
-WHITE = '\033[37m'
-RESET = '\033[39m'
+
 import time
 import os
 os.system("clear")
@@ -70,4 +66,4 @@ time.sleep(1)
 print(GREEN+"LINK:dx.gd.com    ")
 print(RED+"===================")
 time.sleep(1)
-print(MAGENTA+"GRACIAS POR USAR ESTE SCRIPTS")
+print("GRACIAS POR USAR ESTE SCRIPTS")
